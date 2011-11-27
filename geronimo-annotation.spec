@@ -3,7 +3,7 @@
 
 Name:             geronimo-annotation
 Version:          1.0
-Release:          4
+Release:          6
 Summary:          Java EE: Annotation API v1.1
 Group:            Development/Java
 License:          ASL 2.0
