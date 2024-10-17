@@ -7,7 +7,7 @@ Version:          1.0
 Release:          14.1%{?dist}
 Summary:          Java EE: Annotation API v1.1
 License:          ASL 2.0
-URL:              http://geronimo.apache.org/
+URL:              https://geronimo.apache.org/
 
 Source0:          http://repo2.maven.org/maven2/org/apache/geronimo/specs/%{spec_name}/%{version}/%{spec_name}-%{version}-source-release.tar.gz
 BuildArch:        noarch
